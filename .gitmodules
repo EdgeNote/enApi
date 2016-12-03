@@ -1,0 +1,3 @@
+[submodule "S3NoSql"]
+	path = S3NoSql
+	url = https://brian-nelson@github.com/S3NoSql/S3NoSql.git
